@@ -1,5 +1,5 @@
 ### Greetings!
-I am a 21 y.o. student and I am on the path to becoming a software engineer. Currently I dive into backend development and have some interesting projects:
+I am a 21 y.o. student and I am on the path to becoming a software engineer. Currently I dive into web development and have some interesting projects:
 [![Backend](https://github.com/Terekhov-Nikita/Hotel-it-back)]
 [![Frontend](https://github.com/Terekhov-Nikita/Hotel-it-front)]
 [![Telegram Bot](https://github.com/Terekhov-Nikita/TelegramBot)]
