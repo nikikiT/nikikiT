@@ -10,6 +10,7 @@ I am a 21 y.o. student and I am on the path to becoming a software engineer. Cur
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikikiT&layout=compact)](https://github.com/nikikiT/github-readme-stats)
 
 📫 How to reach me: terekhov-n-g@mail.ru
+📫 Or you can find me in telegram: @nikita_ter
 
 <!--
 **nikikiT/nikikiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
